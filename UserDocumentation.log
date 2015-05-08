@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.6)  8 MAY 2015 16:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.6)  8 MAY 2015 18:48
 entering extended mode
 **UserDocumentation.tex
 (C:\Users\David\Documents\GitHub\4320-user-docs\UserDocumentation.tex
@@ -364,16 +364,16 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 (C:\Users\David\Documents\GitHub\4320-user-docs\UserDocumentation.aux) ) 
 Here is how much of TeX's memory you used:
  6061 strings out of 493921
  87688 string characters out of 3147283
- 189060 words of memory out of 3000000
+ 190060 words of memory out of 3000000
  9104 multiletter control sequences out of 15000+200000
  11474 words of font info for 50 fonts, out of 3000000 for 9000
  1002 hyphenation exceptions out of 8191
- 42i,5n,35p,498b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,6n,35p,498b,285s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKT
@@ -381,9 +381,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb>
-Output written on UserDocumentation.pdf (1 page, 75082 bytes).
+Output written on UserDocumentation.pdf (2 pages, 80374 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  7681 words of extra memory for PDF output out of 10000 (max. 10000000)
 
